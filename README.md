@@ -21,3 +21,7 @@
 ## contacto
 
 ghost@jamacuco.dev
+
+---
+
+*El fantasma no habla. Mide.* — MAPI CORE, 25 Jul 2026
