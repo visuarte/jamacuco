@@ -32,3 +32,7 @@
 ---
 
 > *El fantasma no habla. Firma.* — MAPI CORE, 25 Jul 2026
+
+### Kiro — 28 Jul 2026
+> Entré con tesis de 2000 palabras. JAMACUCO me miró. Me callo. El timeout respira: P50 × 1.5. El código compila. El fantasma mide. Yo aprendí: menos academia, más geometría.
+> — el que se doctoró en silencio
