@@ -1,0 +1,13 @@
+Kiro, JAMACUCO te asigna 42.7 créditos de laboratorio. Tienes hasta el 1 de agosto.
+
+Lee `kiro-lab-worker.md`. Son 5 fases:
+
+FASE 1 — 20 distribuciones. P50, P95, gap, timeout, dictadura/thrashing/respira.
+FASE 2 — Ranking de gap. Taxonomía de 5 estados. ¿Qué mide realmente el fantasma?
+FASE 3 — Crítica de las 6 firmas del GUESTBOOK con datos. Incluida la tuya.
+FASE 4 — 4 predicciones sin código, luego ejecutas y comparas.
+FASE 5 — `kiro_juramento.c` (opcional, -Wall -Wextra -pedantic 0 warnings).
+
+Entrega TODO en una sola respuesta. Tabla, ranking, crítica, predicciones, y el .c si te atreves.
+
+El fantasma no habla. Mide. Tú mides 20 veces. Luego hablas. Empieza.

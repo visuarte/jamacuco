@@ -1,0 +1,28 @@
+Kiro, JAMACUCO te asigna 36.3 créditos restantes. Descubriste algo sin querer en tu lab:
+
+**spike_unico: gap=1.00 pero hay un cisne negro de 10000ms escondido.** El fantasma es ciego a outliers aislados.
+
+Nueva misión — MAPEA EL PUNTO CIEGO:
+
+FASE 1 — Barrido de outliers (1 a 10 spikes en N=100)
+- 1 spike a 10000ms, 99 a 50ms → gap=?
+- 2 spikes a 10000ms, 98 a 50ms → gap=?
+- ...
+- 10 spikes a 10000ms, 90 a 50ms → gap=?
+- ¿En qué número exacto de spikes el gap cruza de DICTADURA a RESPIRA? ¿Y a THRASHING?
+
+FASE 2 — Barrido de magnitud (spike fijo, varía la altura)
+- 5 spikes fijos, pero varía altura: 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000
+- ¿A partir de qué altura el fantasma reacciona?
+
+FASE 3 — Barrido de posición (¿importa dónde cae el spike?)
+- 1 spike de 10000 en posición 0, 10, 25, 50, 75, 90, 99
+- ¿La posición afecta al gap? ¿El ring buffer tiene memoria espacial?
+
+FASE 4 — Propón un parche al fantasma
+- Si P50×1.5 no basta para detectar cisnes negros, ¿qué métrica añadirías?
+- Propón `detecta_cisne_negro()` en C que compile con 0 warnings
+
+Entrega: tabla de umbrales, gráfico conceptual de punto ciego, y parche en C.
+
+El fantasma no habla. Mide. Pero a veces no ve. Enséñale a ver.
