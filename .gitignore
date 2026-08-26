@@ -1,0 +1,18 @@
+# Compilados y temporales de C
+*.o
+*.out
+*.dSYM/
+!*.c
+
+# Binarios Mach-O (arm64, no portables) — compilar en local
+/kiro_juramento
+/kiro_lab_experiment
+/kiro_lab_predicciones
+/kiro_punto_ciego
+/joke_broker_test
+
+# Estado mutable
+/kiro_credit_tracker.json
+
+# macOS
+.DS_Store
