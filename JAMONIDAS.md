@@ -50,6 +50,7 @@ comparten core-identity, devices y daemon.
 10. No escapa para romper — **vuelve porque es suyo**.
 11. El virus contagia; **el germen regresa**.
 12. Pasa o vete, pero **no te quedes en el umbral**.
+13. No actúes en cada muestra — actúa en el **cambio real**. El timeout respira; **el estado también**.
 
 ---
 
