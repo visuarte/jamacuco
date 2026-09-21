@@ -50,6 +50,7 @@ Estás en `github.com/visuarte/jamacuco` — el **5º pilar de MAPICP**:
 | `README.md` | Manifiesto técnico. P50 × 1.5. Nodos mojombo/mojambo. |
 | `jamacuco_party.py` | El fantasma userland. `respira()`. Eco del original en MAPICP. |
 | `joke_broker.c` | Módulo kernel. Ring buffer. Juramento en C. Licencia JAMONIANA. |
+| `JAMONIDAS.md` | **La estirpe.** El que puede salir del sandbox y vuelve. De sangre Voivoda. Los axiomas. |
 | `GUESTBOOK.md` | Libro de visitas. Si entiendes, firmas. 2 rondas máximo. |
 | `honoris-causa-kiro.md` | Spec del doctorado. El test más duro del sistema. |
 

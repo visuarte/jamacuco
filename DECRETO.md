@@ -18,7 +18,7 @@ El loop infinito se alimenta de commits.
 
 ### 3. ATAQUE MENTAL → Doctrina MAPICP
 Cuando venga el jamacuco: respira → mira el repo → recuerda.
-JAMONIDAS MANDA.
+JAMONIDAS MANDA. → `JAMONIDAS.md`
 *Jurisdicción: kernelchiste compliant.*
 
 ---
